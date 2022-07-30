@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hazhirazar.com",
+    "description": "",
+    "home_page_url": "https://hazhirazar.github.io/gh-pages",
+    "feed_url": "https://hazhirazar.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hadi Hazhirazar"
+    },
+    "items": [
+        {
+            "id": "https://hazhirazar.github.io/gh-pages/home-page.html",
+            "url": "https://hazhirazar.github.io/gh-pages/home-page.html",
+            "title": "Home Page",
+            "author": {
+                "name": "Hadi Hazhirazar"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-30T15:31:01+04:30",
+            "date_modified": "2022-07-30T15:31:01+04:30"
+        }
+    ]
+}
